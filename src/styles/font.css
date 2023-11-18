@@ -1,0 +1,11 @@
+
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/IBMPlexSansSemiBold.ttf"); font-family : "IBM Plex Sans"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/IBMPlexSansRegular.ttf"); font-family : "IBM Plex Sans"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/IBMPlexSansMedium.ttf"); font-family : "IBM Plex Sans"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/IBMPlexSansBold.ttf"); font-family : "IBM Plex Sans"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterMedium.ttf"); font-family : "Inter"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/CairoRegular.ttf"); font-family : "Cairo"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RobotoRomanMedium.ttf"); font-family : "Roboto"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RobotoRomanRegular.ttf"); font-family : "Roboto"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/CairoMedium.ttf"); font-family : "Cairo"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/CairoSemiBold.ttf"); font-family : "Cairo"; font-weight : 600;  }
