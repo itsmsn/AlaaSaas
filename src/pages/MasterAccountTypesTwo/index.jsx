@@ -72,7 +72,7 @@ const MasterAccountTypesTwoPage = () => {
         <Img
           className="h-8 mb-[3px] w-8"
           src="images/img_computer.svg"
-          alt="computer_One"
+          alt="computerone"
         />
       ),
       label: "Payment Vouchers",
@@ -84,7 +84,7 @@ const MasterAccountTypesTwoPage = () => {
         <Img
           className="h-8 mb-[3px] w-8"
           src="images/img_computer.svg"
-          alt="computer_Two"
+          alt="computertwo"
         />
       ),
       label: "Receipt Vouchers",
@@ -108,7 +108,7 @@ const MasterAccountTypesTwoPage = () => {
         <Img
           className="h-8 w-8"
           src="images/img_computer.svg"
-          alt="computer_Three"
+          alt="computerthree"
         />
       ),
       label: "Stocks",
@@ -120,7 +120,7 @@ const MasterAccountTypesTwoPage = () => {
         <Img
           className="h-[38px] mb-1 w-[38px]"
           src="images/img_3dstudentgrad.svg"
-          alt="spreadsheetappThree"
+          alt="spreadsheetappt"
         />
       ),
       label: "Reports",
@@ -143,7 +143,7 @@ const MasterAccountTypesTwoPage = () => {
                         <Img
                           className="h-5 w-5"
                           src="images/img_computer.svg"
-                          alt="computer_Four"
+                          alt="computerfour"
                         />
                         <Text
                           className="text-base text-gray-500_33 text-right w-auto"
@@ -165,7 +165,7 @@ const MasterAccountTypesTwoPage = () => {
                         <Img
                           className="h-3.5 w-3.5"
                           src="images/img_forward.svg"
-                          alt="forward_One"
+                          alt="forwardone"
                         />
                         <Text
                           className="text-base text-deep_orange-500 text-right w-auto"
@@ -190,7 +190,7 @@ const MasterAccountTypesTwoPage = () => {
                             <Img
                               className="h-6 m-auto w-6"
                               src="images/img_bell01.svg"
-                              alt="bellOne"
+                              alt="bellone"
                             />
                             <div className="absolute bg-blue-800_01 h-2 outline outline-[1px] outline-gray-50_04 right-[8%] rounded-[50%] top-[0] w-2"></div>
                           </div>
@@ -234,7 +234,7 @@ const MasterAccountTypesTwoPage = () => {
                         <Img
                           className="h-[22px] w-[22px]"
                           src="images/img_svgexport17_blue_800.svg"
-                          alt="svgexportSeventeen"
+                          alt="svgexportsevent"
                         />
                       </div>
                       <Button
@@ -360,7 +360,7 @@ const MasterAccountTypesTwoPage = () => {
                         <Img
                           className="h-7 w-7"
                           src="images/img_computer.svg"
-                          alt="computer_Five"
+                          alt="computerfive"
                         />
                         <Text
                           className="text-base text-black-900 w-auto"
@@ -371,7 +371,7 @@ const MasterAccountTypesTwoPage = () => {
                         <Img
                           className="h-2.5 w-[50px]"
                           src="images/img_car.svg"
-                          alt="car_One"
+                          alt="carone"
                         />
                         <Text
                           className="bg-white-A700 border border-blue-800 border-solid h-7 justify-center px-3 py-[3px] rounded-sm text-base text-blue-800 text-shadow-ts w-auto"
@@ -386,7 +386,7 @@ const MasterAccountTypesTwoPage = () => {
                           <Img
                             className="h-2.5"
                             src="images/img_car_blue_gray_400_19.svg"
-                            alt="car_Two"
+                            alt="cartwo"
                           />
                           <Img
                             className="h-[18px] w-[18px]"
@@ -402,12 +402,12 @@ const MasterAccountTypesTwoPage = () => {
                           <Img
                             className="h-2.5"
                             src="images/img_car_blue_gray_400_19.svg"
-                            alt="car_Three"
+                            alt="carthree"
                           />
                           <Img
                             className="h-[18px] w-[18px]"
                             src="images/img_computer.svg"
-                            alt="computer_Six"
+                            alt="computersix"
                           />
                         </div>
                       </div>
@@ -438,7 +438,7 @@ const MasterAccountTypesTwoPage = () => {
                           <Img
                             className="h-2.5"
                             src="images/img_car_blue_gray_400_19.svg"
-                            alt="car_One"
+                            alt="carone"
                           />
                           <Img
                             className="h-[18px] w-[18px]"
@@ -469,7 +469,7 @@ const MasterAccountTypesTwoPage = () => {
                           <Img
                             className="h-2.5"
                             src="images/img_car_blue_gray_400_19.svg"
-                            alt="car_One"
+                            alt="carone"
                           />
                           <Img
                             className="h-[18px] w-[18px]"
@@ -500,7 +500,7 @@ const MasterAccountTypesTwoPage = () => {
                           <Img
                             className="h-2.5"
                             src="images/img_car_blue_gray_400_19.svg"
-                            alt="car_One"
+                            alt="carone"
                           />
                           <Img
                             className="h-[18px] w-[18px]"
@@ -531,7 +531,7 @@ const MasterAccountTypesTwoPage = () => {
                           <Img
                             className="h-2.5 mt-1"
                             src="images/img_car_blue_gray_400_19.svg"
-                            alt="car_One"
+                            alt="carone"
                           />
                           <Img
                             className="h-[18px] w-[18px]"
@@ -548,12 +548,12 @@ const MasterAccountTypesTwoPage = () => {
                       <Img
                         className="h-2.5 mt-1"
                         src="images/img_car_blue_gray_400_19.svg"
-                        alt="car_Four"
+                        alt="carfour"
                       />
                       <Img
                         className="h-[18px] w-[18px]"
                         src="images/img_package8448284.svg"
-                        alt="package8448284_One"
+                        alt="package8448284o"
                       />
                       <Text
                         className="text-blue_gray-400_19 text-sm"
@@ -564,12 +564,12 @@ const MasterAccountTypesTwoPage = () => {
                       <Img
                         className="h-2.5 mt-1"
                         src="images/img_car_blue_gray_400_19.svg"
-                        alt="car_Five"
+                        alt="carfive"
                       />
                       <Img
                         className="h-[18px] w-[18px]"
                         src="images/img_computer.svg"
-                        alt="computer_Seven"
+                        alt="computerseven"
                       />
                     </div>
                   </div>
@@ -579,12 +579,12 @@ const MasterAccountTypesTwoPage = () => {
                       <Img
                         className="h-2.5"
                         src="images/img_car_blue_gray_400_19.svg"
-                        alt="car_Six"
+                        alt="carsix"
                       />
                       <Img
                         className="h-[18px] w-[18px]"
                         src="images/img_package8448284.svg"
-                        alt="package8448284_Two"
+                        alt="package8448284t"
                       />
                       <Text
                         className="text-blue_gray-400_19 text-sm"
@@ -595,12 +595,12 @@ const MasterAccountTypesTwoPage = () => {
                       <Img
                         className="h-2.5"
                         src="images/img_car_blue_gray_400_19.svg"
-                        alt="car_Seven"
+                        alt="carseven"
                       />
                       <Img
                         className="h-[18px] w-[18px]"
                         src="images/img_computer.svg"
-                        alt="computer_Eight"
+                        alt="computereight"
                       />
                     </div>
                   </div>
@@ -611,12 +611,12 @@ const MasterAccountTypesTwoPage = () => {
                     <Img
                       className="h-2.5"
                       src="images/img_car_blue_gray_400_19.svg"
-                      alt="car_Eight"
+                      alt="careight"
                     />
                     <Img
                       className="h-[18px] w-[18px]"
                       src="images/img_package8448284.svg"
-                      alt="package8448284_Three"
+                      alt="package8448284t_One"
                     />
                     <Text
                       className="text-blue_gray-400_19 text-sm"
@@ -627,12 +627,12 @@ const MasterAccountTypesTwoPage = () => {
                     <Img
                       className="h-2.5"
                       src="images/img_car_blue_gray_400_19.svg"
-                      alt="car_Nine"
+                      alt="carnine"
                     />
                     <Img
                       className="h-[18px] w-[18px]"
                       src="images/img_computer.svg"
-                      alt="computer_Nine"
+                      alt="computernine"
                     />
                   </div>
                 </div>
@@ -646,12 +646,12 @@ const MasterAccountTypesTwoPage = () => {
                     <Img
                       className="h-2.5 ml-3.5 my-[9px]"
                       src="images/img_car.svg"
-                      alt="car_Ten"
+                      alt="carten"
                     />
                     <Img
                       className="h-7 ml-3.5 w-7"
                       src="images/img_computer.svg"
-                      alt="computer_Ten"
+                      alt="computerten"
                     />
                     <Text
                       className="ml-2.5 mt-1.5 text-base text-black-900"
@@ -662,7 +662,7 @@ const MasterAccountTypesTwoPage = () => {
                     <Img
                       className="h-2.5 ml-3.5 my-[9px]"
                       src="images/img_car.svg"
-                      alt="car_Eleven"
+                      alt="careleven"
                     />
                   </div>
                   <div className="absolute flex flex-col h-full inset-[0] items-center justify-center m-auto w-full">
@@ -672,18 +672,18 @@ const MasterAccountTypesTwoPage = () => {
                         <Img
                           className="h-[18px] mt-auto mx-auto w-[18px]"
                           src="images/img_plus.svg"
-                          alt="plus_One"
+                          alt="plusone"
                         />
                       </div>
                       <Img
                         className="h-2.5 mb-[9px] sm:mt-0 mt-[65px]"
                         src="images/img_car.svg"
-                        alt="car_Twelve"
+                        alt="cartwelve"
                       />
                       <Img
                         className="h-7 sm:mt-0 mt-14 w-7"
                         src="images/img_computer.svg"
-                        alt="computer_Eleven"
+                        alt="computereleven"
                       />
                       <Text
                         className="sm:mt-0 mt-[62px] text-base text-black-900"
@@ -702,7 +702,7 @@ const MasterAccountTypesTwoPage = () => {
                           <Img
                             className="h-2.5"
                             src="images/img_car.svg"
-                            alt="car_Thirteen"
+                            alt="carthirteen"
                           />
                           <Text
                             className="bg-white-A700 border border-blue-800 border-solid h-7 justify-center px-3 py-[3px] rounded-sm text-base text-blue-800 text-shadow-ts w-auto"
@@ -719,17 +719,17 @@ const MasterAccountTypesTwoPage = () => {
                   <Img
                     className="h-[18px] sm:mt-0 my-[5px] w-[18px]"
                     src="images/img_plus.svg"
-                    alt="plus_Two"
+                    alt="plustwo"
                   />
                   <Img
                     className="h-2.5 ml-3.5 sm:ml-[0] sm:mt-0 my-[9px]"
                     src="images/img_car.svg"
-                    alt="car_Fourteen"
+                    alt="carfourteen"
                   />
                   <Img
                     className="h-7 ml-3.5 sm:ml-[0] w-7"
                     src="images/img_computer.svg"
-                    alt="computer_Twelve"
+                    alt="computertwelve"
                   />
                   <Text
                     className="ml-2.5 sm:ml-[0] sm:mt-0 mt-1.5 text-base text-black-900"
@@ -740,7 +740,7 @@ const MasterAccountTypesTwoPage = () => {
                   <Img
                     className="h-2.5 ml-3.5 sm:ml-[0] sm:mt-0 my-[9px]"
                     src="images/img_car.svg"
-                    alt="car_Fifteen"
+                    alt="carfifteen"
                   />
                   <Text
                     className="bg-white-A700 border border-blue-800 border-solid h-7 justify-center ml-3 sm:ml-[0] px-3 py-[3px] rounded-sm text-base text-blue-800 text-shadow-ts w-auto"

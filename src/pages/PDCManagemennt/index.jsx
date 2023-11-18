@@ -72,7 +72,7 @@ const PDCManagemenntPage = () => {
         <Img
           className="h-8 mb-[3px] w-8"
           src="images/img_computer.svg"
-          alt="computer_One"
+          alt="computerone"
         />
       ),
       label: "Payment Vouchers",
@@ -84,7 +84,7 @@ const PDCManagemenntPage = () => {
         <Img
           className="h-8 mb-[3px] w-8"
           src="images/img_computer.svg"
-          alt="computer_Two"
+          alt="computertwo"
         />
       ),
       label: "Receipt Vouchers",
@@ -108,7 +108,7 @@ const PDCManagemenntPage = () => {
         <Img
           className="h-8 w-8"
           src="images/img_computer.svg"
-          alt="computer_Three"
+          alt="computerthree"
         />
       ),
       label: "Stocks",
@@ -120,7 +120,7 @@ const PDCManagemenntPage = () => {
         <Img
           className="h-[38px] mb-1 w-[38px]"
           src="images/img_3dstudentgrad.svg"
-          alt="spreadsheetappThree"
+          alt="spreadsheetappt"
         />
       ),
       label: "Reports",
@@ -192,7 +192,7 @@ const PDCManagemenntPage = () => {
                       <Img
                         className="h-6 w-6"
                         src="images/img_svgexport17.svg"
-                        alt="svgexportSeventeen"
+                        alt="svgexportsevent"
                       />
                       <Text
                         className="text-blue-800 text-center text-lg w-auto"
@@ -220,7 +220,7 @@ const PDCManagemenntPage = () => {
                       <Img
                         className="h-6 w-6"
                         src="images/img_svgexport66.svg"
-                        alt="svgexportSixtySix"
+                        alt="svgexportsixtys"
                       />
                       <Text
                         className="text-blue_gray-300_17 text-center text-lg w-auto"
@@ -242,7 +242,7 @@ const PDCManagemenntPage = () => {
                 <Img
                   className="h-[125px] mx-auto object-cover w-full"
                   src="images/img_rectangle16_31.png"
-                  alt="rectangleSixteen"
+                  alt="rectanglesixtee"
                 />
                 <div className="absolute sm:h-[148px] h-[158px] md:h-[611px] inset-[0] justify-center m-auto w-full">
                   <div className="absolute bg-white-A700 flex flex-col inset-x-[0] items-center justify-end mx-auto p-2 top-[0] w-full">
@@ -252,7 +252,7 @@ const PDCManagemenntPage = () => {
                           <Img
                             className="h-5 w-5"
                             src="images/img_computer.svg"
-                            alt="computer_Four"
+                            alt="computerfour"
                           />
                           <Text
                             className="text-base text-gray-500_33 text-right w-auto"
@@ -282,13 +282,13 @@ const PDCManagemenntPage = () => {
                             <Img
                               className="h-[22px] w-[22px]"
                               src="images/img_volume_gray_400_02.svg"
-                              alt="volume_One"
+                              alt="volumeone"
                             />
                             <div className="relative w-6">
                               <Img
                                 className="h-6 m-auto w-6"
                                 src="images/img_bell01.svg"
-                                alt="bellOne"
+                                alt="bellone"
                               />
                               <div className="absolute bg-blue-800_01 h-2 outline outline-[1px] outline-gray-50_04 right-[8%] rounded-[50%] top-[0] w-2"></div>
                             </div>
@@ -332,7 +332,7 @@ const PDCManagemenntPage = () => {
                           <Img
                             className="h-[22px] w-[22px]"
                             src="images/img_svgexport17_blue_800.svg"
-                            alt="svgexportSeventeen_One"
+                            alt="svgexportsevent_One"
                           />
                         </div>
                         <Button

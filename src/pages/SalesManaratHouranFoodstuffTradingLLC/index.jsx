@@ -96,7 +96,7 @@ const SalesManaratHouranFoodstuffTradingLLCPage = () => {
         <Img
           className="h-8 mb-[3px] w-8"
           src="images/img_computer.svg"
-          alt="computer_One"
+          alt="computerone"
         />
       ),
       label: "Payment Vouchers",
@@ -108,7 +108,7 @@ const SalesManaratHouranFoodstuffTradingLLCPage = () => {
         <Img
           className="h-8 mb-[3px] w-8"
           src="images/img_computer.svg"
-          alt="computer_Two"
+          alt="computertwo"
         />
       ),
       label: "Receipt Vouchers",
@@ -132,7 +132,7 @@ const SalesManaratHouranFoodstuffTradingLLCPage = () => {
         <Img
           className="h-8 w-8"
           src="images/img_computer.svg"
-          alt="computer_Three"
+          alt="computerthree"
         />
       ),
       label: "Stocks",
@@ -144,7 +144,7 @@ const SalesManaratHouranFoodstuffTradingLLCPage = () => {
         <Img
           className="h-[38px] mb-1 w-[38px]"
           src="images/img_3dstudentgrad.svg"
-          alt="spreadsheetappThree"
+          alt="spreadsheetappt"
         />
       ),
       label: "Reports",
@@ -163,7 +163,7 @@ const SalesManaratHouranFoodstuffTradingLLCPage = () => {
                 <Img
                   className="h-[125px] mx-auto object-cover w-full"
                   src="images/img_rectangle16_17.png"
-                  alt="rectangleSixteen"
+                  alt="rectanglesixtee"
                 />
                 <div className="absolute sm:h-[125px] h-[158px] md:h-[673px] inset-[0] justify-center m-auto w-full">
                   <div className="absolute bg-white-A700 flex flex-col inset-x-[0] items-center justify-end mx-auto p-2 top-[0] w-full">
@@ -173,7 +173,7 @@ const SalesManaratHouranFoodstuffTradingLLCPage = () => {
                           <Img
                             className="h-5 w-5"
                             src="images/img_computer.svg"
-                            alt="computer_Four"
+                            alt="computerfour"
                           />
                           <Text
                             className="text-base text-gray-500_33 text-right w-auto"
@@ -195,7 +195,7 @@ const SalesManaratHouranFoodstuffTradingLLCPage = () => {
                           <Img
                             className="h-3.5 w-3.5"
                             src="images/img_forward.svg"
-                            alt="forward_One"
+                            alt="forwardone"
                           />
                           <Text
                             className="text-base text-deep_orange-500 text-right w-auto"
@@ -220,7 +220,7 @@ const SalesManaratHouranFoodstuffTradingLLCPage = () => {
                               <Img
                                 className="h-6 m-auto w-6"
                                 src="images/img_bell01.svg"
-                                alt="bellOne"
+                                alt="bellone"
                               />
                               <div className="absolute bg-blue-800_01 h-2 outline outline-[1px] outline-gray-50_04 right-[8%] rounded-[50%] top-[0] w-2"></div>
                             </div>
@@ -264,7 +264,7 @@ const SalesManaratHouranFoodstuffTradingLLCPage = () => {
                           <Img
                             className="h-[22px] w-[22px]"
                             src="images/img_svgexport17_blue_800.svg"
-                            alt="svgexportSeventeen"
+                            alt="svgexportsevent"
                           />
                         </div>
                         <Button
@@ -415,7 +415,7 @@ const SalesManaratHouranFoodstuffTradingLLCPage = () => {
                     </div>
                     <div className="md:h-12 h-[57px] relative w-[45%] md:w-full">
                       <Input
-                        name="groupSeventyFive"
+                        name="groupseventyfiv"
                         placeholder="Search by name"
                         className="leading-[normal] p-0 placeholder:text-blue_gray-100_05 text-left text-sm w-full"
                         wrapClassName="absolute border border-blue_gray-100_06 border-solid bottom-[0] inset-x-[0] mx-auto w-full"
@@ -711,7 +711,7 @@ const SalesManaratHouranFoodstuffTradingLLCPage = () => {
                   <Img
                     className="h-6 w-6"
                     src="images/img_refreshbutton2267901.svg"
-                    alt="refreshbuttonTwentyTwo"
+                    alt="refreshbuttontw"
                   />
                   <Text
                     className="text-base text-blue-800 w-auto"
@@ -788,7 +788,7 @@ const SalesManaratHouranFoodstuffTradingLLCPage = () => {
                         <Img
                           className="h-3 mt-[5px] w-3"
                           src="images/img_svgexport1826.svg"
-                          alt="svgexport1826_One"
+                          alt="svgexport1826on"
                         />
                       </div>
                       <div className="flex flex-row gap-2.5 items-start justify-center w-[5%] md:w-full">
@@ -803,7 +803,7 @@ const SalesManaratHouranFoodstuffTradingLLCPage = () => {
                         <Img
                           className="h-3 mt-[5px] w-3"
                           src="images/img_svgexport1826.svg"
-                          alt="svgexport1826_Two"
+                          alt="svgexport1826tw"
                         />
                       </div>
                       <div className="flex flex-row gap-2.5 items-start justify-center w-[5%] md:w-full">
@@ -818,7 +818,7 @@ const SalesManaratHouranFoodstuffTradingLLCPage = () => {
                         <Img
                           className="h-3 mt-[5px] w-3"
                           src="images/img_svgexport1826.svg"
-                          alt="svgexport1826_Three"
+                          alt="svgexport1826th"
                         />
                       </div>
                       <div className="flex flex-row gap-2.5 items-start justify-center pt-0.5 w-[8%] md:w-full">
@@ -831,7 +831,7 @@ const SalesManaratHouranFoodstuffTradingLLCPage = () => {
                         <Img
                           className="h-3 mt-0.5 w-3"
                           src="images/img_svgexport1826.svg"
-                          alt="svgexport1826_Four"
+                          alt="svgexport1826fo"
                         />
                       </div>
                       <div className="flex flex-row gap-2.5 items-start justify-center w-[9%] md:w-full">
@@ -844,7 +844,7 @@ const SalesManaratHouranFoodstuffTradingLLCPage = () => {
                         <Img
                           className="h-3 mt-[5px] w-3"
                           src="images/img_svgexport1826.svg"
-                          alt="svgexport1826_Five"
+                          alt="svgexport1826fi"
                         />
                       </div>
                       <div className="flex flex-row gap-2.5 items-end justify-center w-[6%] md:w-full">
@@ -857,7 +857,7 @@ const SalesManaratHouranFoodstuffTradingLLCPage = () => {
                         <Img
                           className="h-2.5 my-[5px] w-[11px]"
                           src="images/img_settings.svg"
-                          alt="settings_One"
+                          alt="settingsone"
                         />
                       </div>
                       <div className="flex flex-row gap-2.5 items-end justify-center w-[8%] md:w-full">
@@ -870,7 +870,7 @@ const SalesManaratHouranFoodstuffTradingLLCPage = () => {
                         <Img
                           className="h-2.5 my-[5px] w-[11px]"
                           src="images/img_settings.svg"
-                          alt="settings_Two"
+                          alt="settingstwo"
                         />
                       </div>
                       <div className="flex flex-row gap-2.5 items-end justify-center w-[8%] md:w-full">
@@ -883,7 +883,7 @@ const SalesManaratHouranFoodstuffTradingLLCPage = () => {
                         <Img
                           className="h-2.5 my-[5px] w-[11px]"
                           src="images/img_settings.svg"
-                          alt="settings_Three"
+                          alt="settingsthree"
                         />
                       </div>
                       <div className="flex flex-row gap-2.5 items-end justify-between w-[9%] md:w-full">
@@ -896,7 +896,7 @@ const SalesManaratHouranFoodstuffTradingLLCPage = () => {
                         <Img
                           className="h-2.5 my-[5px] w-[11px]"
                           src="images/img_settings.svg"
-                          alt="settings_Four"
+                          alt="settingsfour"
                         />
                       </div>
                     </div>
@@ -1232,7 +1232,7 @@ const SalesManaratHouranFoodstuffTradingLLCPage = () => {
                   <Img
                     className="h-6 w-6"
                     src="images/img_computer.svg"
-                    alt="computer_Five"
+                    alt="computerfive"
                   />
                   <a
                     href="javascript:"

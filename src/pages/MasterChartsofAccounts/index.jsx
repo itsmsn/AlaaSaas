@@ -72,7 +72,7 @@ const MasterChartsofAccountsPage = () => {
         <Img
           className="h-8 mb-[3px] w-8"
           src="images/img_computer.svg"
-          alt="computer_One"
+          alt="computerone"
         />
       ),
       label: "Payment Vouchers",
@@ -84,7 +84,7 @@ const MasterChartsofAccountsPage = () => {
         <Img
           className="h-8 mb-[3px] w-8"
           src="images/img_computer.svg"
-          alt="computer_Two"
+          alt="computertwo"
         />
       ),
       label: "Receipt Vouchers",
@@ -108,7 +108,7 @@ const MasterChartsofAccountsPage = () => {
         <Img
           className="h-8 w-8"
           src="images/img_computer.svg"
-          alt="computer_Three"
+          alt="computerthree"
         />
       ),
       label: "Stocks",
@@ -120,7 +120,7 @@ const MasterChartsofAccountsPage = () => {
         <Img
           className="h-[38px] mb-1 w-[38px]"
           src="images/img_3dstudentgrad.svg"
-          alt="spreadsheetappThree"
+          alt="spreadsheetappt"
         />
       ),
       label: "Reports",
@@ -145,7 +145,7 @@ const MasterChartsofAccountsPage = () => {
                             <Img
                               className="h-5 w-5"
                               src="images/img_computer.svg"
-                              alt="computer_Four"
+                              alt="computerfour"
                             />
                             <Text
                               className="text-base text-gray-500_33 text-right w-auto"
@@ -167,7 +167,7 @@ const MasterChartsofAccountsPage = () => {
                             <Img
                               className="h-3.5 w-3.5"
                               src="images/img_forward.svg"
-                              alt="forward_One"
+                              alt="forwardone"
                             />
                             <Text
                               className="text-base text-deep_orange-500 text-right w-auto"
@@ -192,7 +192,7 @@ const MasterChartsofAccountsPage = () => {
                                 <Img
                                   className="h-6 m-auto w-6"
                                   src="images/img_bell01.svg"
-                                  alt="bellOne"
+                                  alt="bellone"
                                 />
                                 <div className="absolute bg-blue-800_01 h-2 outline outline-[1px] outline-gray-50_04 right-[8%] rounded-[50%] top-[0] w-2"></div>
                               </div>
@@ -236,7 +236,7 @@ const MasterChartsofAccountsPage = () => {
                             <Img
                               className="h-[22px] w-[22px]"
                               src="images/img_svgexport17_blue_800.svg"
-                              alt="svgexportSeventeen"
+                              alt="svgexportsevent"
                             />
                           </div>
                           <Button
@@ -409,7 +409,7 @@ const MasterChartsofAccountsPage = () => {
                   <Img
                     className="h-6 w-6"
                     src="images/img_refreshbutton2267901.svg"
-                    alt="refreshbuttonTwentyTwo"
+                    alt="refreshbuttontw"
                   />
                   <Text
                     className="text-base text-blue-800 w-auto"
@@ -442,7 +442,7 @@ const MasterChartsofAccountsPage = () => {
                   <Img
                     className="h-7 sm:ml-[0] ml-[13px] w-7"
                     src="images/img_computer.svg"
-                    alt="computer_Five"
+                    alt="computerfive"
                   />
                   <Text
                     className="sm:ml-[0] ml-[13px] sm:mt-0 mt-[5px] text-base text-black-900"
@@ -453,17 +453,17 @@ const MasterChartsofAccountsPage = () => {
                   <Img
                     className="h-2.5 ml-3.5 sm:ml-[0] sm:mt-0 my-[9px]"
                     src="images/img_car_blue_gray_400_19.svg"
-                    alt="car_One"
+                    alt="carone"
                   />
                   <Img
                     className="h-[18px] ml-5 sm:ml-[0] sm:mt-0 my-[5px] w-[18px]"
                     src="images/img_computer.svg"
-                    alt="computer_Six"
+                    alt="computersix"
                   />
                   <Img
                     className="h-2.5 sm:ml-[0] ml-[13px] sm:mt-0 my-[9px]"
                     src="images/img_car_blue_gray_400_19.svg"
-                    alt="car_Two"
+                    alt="cartwo"
                   />
                   <Img
                     className="h-[18px] ml-5 sm:ml-[0] sm:mt-0 my-[5px] w-[18px]"
@@ -473,7 +473,7 @@ const MasterChartsofAccountsPage = () => {
                   <Img
                     className="h-2.5 ml-2.5 sm:ml-[0] sm:mt-0 my-[9px]"
                     src="images/img_car.svg"
-                    alt="car_Three"
+                    alt="carthree"
                   />
                   <Text
                     className="bg-white-A700 border border-blue-800 border-solid h-7 justify-center sm:ml-[0] ml-[13px] px-3 py-[3px] rounded-sm text-base text-blue-800 text-shadow-ts w-auto"
@@ -511,17 +511,17 @@ const MasterChartsofAccountsPage = () => {
                     <Img
                       className="h-2.5 sm:mt-0 my-[9px]"
                       src="images/img_car_blue_gray_400_19.svg"
-                      alt="car_One"
+                      alt="carone"
                     />
                     <Img
                       className="h-[18px] sm:mt-0 my-[5px] w-[18px]"
                       src="images/img_computer.svg"
-                      alt="computer_One"
+                      alt="computerone"
                     />
                     <Img
                       className="h-2.5 sm:mt-0 my-[9px]"
                       src="images/img_car_blue_gray_400_19.svg"
-                      alt="car_Two"
+                      alt="cartwo"
                     />
                     <Img
                       className="h-[18px] sm:mt-0 my-[5px] w-[18px]"
@@ -531,7 +531,7 @@ const MasterChartsofAccountsPage = () => {
                     <Img
                       className="h-2.5 sm:mt-0 my-[9px]"
                       src="images/img_car.svg"
-                      alt="car_Three"
+                      alt="carthree"
                     />
                     <Text
                       className="bg-white-A700 border border-blue-800 border-solid h-7 justify-center px-3 py-[3px] rounded-sm text-base text-blue-800 text-shadow-ts w-auto"
@@ -561,17 +561,17 @@ const MasterChartsofAccountsPage = () => {
                     <Img
                       className="h-2.5"
                       src="images/img_car_blue_gray_400_19.svg"
-                      alt="car_One"
+                      alt="carone"
                     />
                     <Img
                       className="h-[18px] w-[18px]"
                       src="images/img_computer.svg"
-                      alt="computer_One"
+                      alt="computerone"
                     />
                     <Img
                       className="h-2.5"
                       src="images/img_car_blue_gray_400_19.svg"
-                      alt="car_Two"
+                      alt="cartwo"
                     />
                     <Img
                       className="h-[18px] w-[18px]"
@@ -581,7 +581,7 @@ const MasterChartsofAccountsPage = () => {
                     <Img
                       className="h-2.5"
                       src="images/img_car.svg"
-                      alt="car_Three"
+                      alt="carthree"
                     />
                     <Text
                       className="bg-white-A700 border border-blue-800 border-solid h-7 justify-center px-3 py-[3px] rounded-sm text-base text-blue-800 text-shadow-ts w-auto"
@@ -615,17 +615,17 @@ const MasterChartsofAccountsPage = () => {
                     <Img
                       className="h-2.5 sm:mt-0 my-[9px]"
                       src="images/img_car_blue_gray_400_19.svg"
-                      alt="car_One"
+                      alt="carone"
                     />
                     <Img
                       className="h-[18px] sm:mt-0 my-[5px] w-[18px]"
                       src="images/img_computer.svg"
-                      alt="computer_One"
+                      alt="computerone"
                     />
                     <Img
                       className="h-2.5 sm:mt-0 my-[9px]"
                       src="images/img_car_blue_gray_400_19.svg"
-                      alt="car_Two"
+                      alt="cartwo"
                     />
                     <Img
                       className="h-[18px] sm:mt-0 my-[5px] w-[18px]"
@@ -635,7 +635,7 @@ const MasterChartsofAccountsPage = () => {
                     <Img
                       className="h-2.5 sm:mt-0 my-[9px]"
                       src="images/img_car.svg"
-                      alt="car_Three"
+                      alt="carthree"
                     />
                     <Text
                       className="bg-white-A700 border border-blue-800 border-solid h-7 justify-center px-3 py-[3px] rounded-sm text-base text-blue-800 text-shadow-ts w-auto"
@@ -665,17 +665,17 @@ const MasterChartsofAccountsPage = () => {
                     <Img
                       className="h-2.5"
                       src="images/img_car_blue_gray_400_19.svg"
-                      alt="car_One"
+                      alt="carone"
                     />
                     <Img
                       className="h-[18px] w-[18px]"
                       src="images/img_computer.svg"
-                      alt="computer_One"
+                      alt="computerone"
                     />
                     <Img
                       className="h-2.5"
                       src="images/img_car_blue_gray_400_19.svg"
-                      alt="car_Two"
+                      alt="cartwo"
                     />
                     <Img
                       className="h-[18px] w-[18px]"
@@ -685,7 +685,7 @@ const MasterChartsofAccountsPage = () => {
                     <Img
                       className="h-2.5"
                       src="images/img_car.svg"
-                      alt="car_Three"
+                      alt="carthree"
                     />
                     <Text
                       className="bg-white-A700 border border-blue-800 border-solid h-7 justify-center px-3 py-[3px] rounded-sm text-base text-blue-800 text-shadow-ts w-auto"

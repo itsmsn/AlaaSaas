@@ -39,7 +39,7 @@ const Page = () => {
         <Img
           className="h-6 w-6"
           src="images/img_masters1.svg"
-          alt="mastersOne"
+          alt="mastersone"
         />
       ),
       label: "Masters",
@@ -55,7 +55,7 @@ const Page = () => {
         <Img
           className="h-6 md:h-auto object-cover w-6"
           src="images/img_icons8increase48.png"
-          alt="icons8increaseFour"
+          alt="icons8increasef"
         />
       ),
       label: "Sales",
@@ -67,7 +67,7 @@ const Page = () => {
         <Img
           className="h-6 w-6"
           src="images/img_basicvouchers1.svg"
-          alt="basicvouchersOne"
+          alt="basicvoucherson"
         />
       ),
       label: "Basic Vouchers",
@@ -112,7 +112,7 @@ const Page = () => {
     },
     {
       icon: (
-        <Img className="h-6 w-6" src="images/img_stocks1.svg" alt="stocksOne" />
+        <Img className="h-6 w-6" src="images/img_stocks1.svg" alt="stocksone" />
       ),
       label: "Stocks",
       href: "/stocks",
@@ -123,7 +123,7 @@ const Page = () => {
         <Img
           className="h-6 mb-1 w-6"
           src="images/img_reports1.svg"
-          alt="reportsOne"
+          alt="reportsone"
         />
       ),
       label: "Reports",
@@ -192,7 +192,7 @@ const Page = () => {
                               <Img
                                 className="absolute h-5 right-[18%] top-[6%]"
                                 src="images/img_settings_white_a700_20x27.svg"
-                                alt="settings_One"
+                                alt="settingsone"
                               />
                             </div>
                             <Img
@@ -222,7 +222,7 @@ const Page = () => {
                         <Img
                           className="absolute bottom-[0] h-[25px] left-[10%]"
                           src="images/img_vector.svg"
-                          alt="vector_One"
+                          alt="vectorone"
                         />
                       </div>
                       <Img
@@ -234,13 +234,13 @@ const Page = () => {
                     <Img
                       className="absolute bottom-[0] h-[19px] left-[0]"
                       src="images/img_vector_white_a700.svg"
-                      alt="vector_Two"
+                      alt="vectortwo"
                     />
                     <div className="absolute bottom-[0] flex flex-row gap-[9px] inset-x-[0] items-start justify-center mx-auto w-[47%]">
                       <Img
                         className="h-[9px] mt-0.5"
                         src="images/img_offer_white_a700.svg"
-                        alt="offer_One"
+                        alt="offerone"
                       />
                       <Img
                         className="h-[19px]"
@@ -259,17 +259,17 @@ const Page = () => {
                       <Img
                         className="h-[13px]"
                         src="images/img_contrast_white_a700.svg"
-                        alt="contrast_One"
+                        alt="contrastone"
                       />
                       <Img
                         className="h-3.5 w-3.5"
                         src="images/img_contrast.svg"
-                        alt="contrast_Two"
+                        alt="contrasttwo"
                       />
                       <Img
                         className="h-[13px]"
                         src="images/img_vector_white_a700_13x11.svg"
-                        alt="vector_Three"
+                        alt="vectorthree"
                       />
                       <Img
                         className="h-[13px]"
@@ -281,82 +281,82 @@ const Page = () => {
                       <Img
                         className="h-[5px] w-1"
                         src="images/img_vector_white_a700_5x4.svg"
-                        alt="vector_Four"
+                        alt="vectorfour"
                       />
                       <Img
                         className="h-[5px]"
                         src="images/img_vector_white_a700_5x1.svg"
-                        alt="vector_Five"
+                        alt="vectorfive"
                       />
                       <Img
                         className="h-[5px] w-[5px]"
                         src="images/img_vector_white_a700_5x5.svg"
-                        alt="vector_Six"
+                        alt="vectorsix"
                       />
                       <Img
                         className="h-[5px]"
                         src="images/img_vector_5x1.svg"
-                        alt="vector_Seven"
+                        alt="vectorseven"
                       />
                       <Img
                         className="h-[5px]"
                         src="images/img_vector_white_a700_5x3.svg"
-                        alt="vector_Eight"
+                        alt="vectoreight"
                       />
                       <Img
                         className="h-[5px] w-1"
                         src="images/img_vector_5x4.svg"
-                        alt="vector_Nine"
+                        alt="vectornine"
                       />
                       <Img
                         className="h-[5px]"
                         src="images/img_vector_white_a700_5x2.svg"
-                        alt="vector_Ten"
+                        alt="vectorten"
                       />
                       <Img
                         className="h-[5px]"
                         src="images/img_vector_5x3.svg"
-                        alt="vector_Eleven"
+                        alt="vectoreleven"
                       />
                       <Img
                         className="h-[5px] w-[5px]"
                         src="images/img_vector_5x5.svg"
-                        alt="vector_Twelve"
+                        alt="vectortwelve"
                       />
                       <Img
                         className="h-[5px]"
                         src="images/img_vector_5x2.svg"
-                        alt="vector_Thirteen"
+                        alt="vectorthirteen"
                       />
                       <Img
                         className="h-[5px]"
                         src="images/img_vector_1.svg"
-                        alt="vector_Fourteen"
+                        alt="vectorfourteen"
                       />
                       <Img
                         className="h-[5px]"
                         src="images/img_vector_2.svg"
-                        alt="vector_Fifteen"
+                        alt="vectorfifteen"
                       />
                       <Img
                         className="h-[5px]"
                         src="images/img_vector_white_a700_5x1.svg"
-                        alt="vector_Sixteen"
+                        alt="vectorsixteen"
                       />
                       <Img
                         className="h-[5px] w-[5px]"
                         src="images/img_vector_3.svg"
-                        alt="vector_Seventeen"
+                        alt="vectorseventeen"
                       />
                       <Img
                         className="h-[5px] w-1"
                         src="images/img_vector_4.svg"
-                        alt="vector_Eighteen"
+                        alt="vectoreighteen"
                       />
                       <Img
                         className="h-[5px]"
                         src="images/img_vector_5.svg"
-                        alt="vector_Nineteen"
+                        alt="vectornineteen"
                       />
                     </div>
                   </div>
@@ -406,13 +406,13 @@ const Page = () => {
                   <Img
                     className="h-[22px] w-[22px]"
                     src="images/img_volume_gray_400_02.svg"
-                    alt="volume_One"
+                    alt="volumeone"
                   />
                   <div className="relative w-6">
                     <Img
                       className="h-6 m-auto w-6"
                       src="images/img_bell01.svg"
-                      alt="bellOne"
+                      alt="bellone"
                     />
                     <div className="absolute bg-blue-800_01 h-2 outline outline-[1px] outline-gray-50_04 right-[8%] rounded-[50%] top-[0] w-2"></div>
                   </div>
@@ -457,7 +457,7 @@ const Page = () => {
                   <Img
                     className="h-5 w-5"
                     src="images/img_bulkupload1.svg"
-                    alt="bulkuploadOne"
+                    alt="bulkuploadone"
                   />
                 </div>
                 <SelectBox
@@ -482,7 +482,7 @@ const Page = () => {
                   <Img
                     className="h-5 w-5"
                     src="images/img_shortcuts1.svg"
-                    alt="shortcutsOne"
+                    alt="shortcutsone"
                   />
                 </div>
                 <div className="flex flex-col items-end justify-end w-auto">
@@ -499,7 +499,7 @@ const Page = () => {
                   <Img
                     className="h-5 w-5"
                     src="images/img_settings_blue_800_02.svg"
-                    alt="settings_Two"
+                    alt="settingstwo"
                   />
                 </div>
                 <SelectBox
@@ -523,7 +523,7 @@ const Page = () => {
                 <Img
                   className="h-5 w-5"
                   src="images/img_list1.svg"
-                  alt="listOne"
+                  alt="listone"
                 />
               </div>
             </div>
@@ -585,7 +585,7 @@ const Page = () => {
                     <Img
                       className="h-6 w-6"
                       src="images/img_svgexport17.svg"
-                      alt="svgexportSeventeen"
+                      alt="svgexportsevent"
                     />
                     <Text
                       className="text-blue-800 text-center text-lg w-auto"
@@ -604,7 +604,7 @@ const Page = () => {
                 <Img
                   className="h-4 mr-4 w-4"
                   src="images/img_volume.svg"
-                  alt="volume_Two"
+                  alt="volumetwo"
                 />
               </div>
               <div className="bg-white-A700 border border-gray-300_08 border-solid flex flex-col items-center justify-end p-[21px] sm:px-5 rounded-lg w-[24%] md:w-full">
@@ -613,7 +613,7 @@ const Page = () => {
                     <Img
                       className="h-6 w-6"
                       src="images/img_svgexport66.svg"
-                      alt="svgexportSixtySix"
+                      alt="svgexportsixtys"
                     />
                     <Text
                       className="text-blue_gray-300_17 text-center text-lg w-auto"
@@ -665,7 +665,7 @@ const Page = () => {
                       <Img
                         className="h-5 w-5"
                         src="images/img_svgexport17_blue_gray_300_17.svg"
-                        alt="svgexportSeventeen_One"
+                        alt="svgexportsevent_One"
                       />
                       <Text
                         className="text-base text-blue_gray-300_17 w-auto"
@@ -679,7 +679,7 @@ const Page = () => {
                     <Img
                       className="h-5 w-5"
                       src="images/img_svgexport17_blue_gray_300_17_20x20.svg"
-                      alt="svgexportSeventeen_Two"
+                      alt="svgexportsevent_Two"
                     />
                     <Text
                       className="text-base text-blue_gray-300_17 w-auto"

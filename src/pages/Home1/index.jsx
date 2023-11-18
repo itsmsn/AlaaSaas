@@ -130,14 +130,186 @@ const Home1Page = () => {
       <div className="bg-white-A700 flex flex-col font-ibmplexsans items-center justify-start mx-auto w-full">
         <div className="flex md:flex-col flex-row md:gap-5 items-start justify-evenly w-full">
           <Sidebar1 className="!sticky !w-[250px] bg-blue-800 flex h-screen md:hidden justify-start overflow-auto md:px-5 top-[0]" />
-          <div className="flex flex-1 flex-col gap-[25px] items-center justify-start md:px-5 w-full">
-            <div className="sm:h-[146px] h-[275px] md:h-[611px] relative w-full">
-              <div className="absolute bottom-[0] flex md:flex-col flex-row gap-[26px] inset-x-[0] items-center justify-center mx-auto w-auto">
+          <div className="flex flex-1 flex-col gap-4 items-center justify-start md:px-5 w-full">
+            <div className="bg-white-A700 flex flex-col items-center justify-end p-2 w-full">
+              <div className="flex flex-col gap-[17px] items-center justify-start mt-1.5 w-[95%] md:w-full">
+                <div className="flex sm:flex-col flex-row md:gap-10 items-center justify-between w-full">
+                  <div className="flex flex-row gap-[3px] items-center justify-center w-auto">
+                    <Img
+                      className="h-5 w-5"
+                      src="images/img_computer.svg"
+                      alt="computer_Four"
+                    />
+                    <Text
+                      className="text-base text-deep_orange-600_01 text-right w-auto"
+                      size="txtIBMPlexSansMedium16Deeporange60001"
+                    >
+                      Dashboard
+                    </Text>
+                  </div>
+                  <div className="flex flex-row gap-[18px] items-center justify-start w-auto">
+                    <div className="flex flex-row gap-7 items-center justify-start w-auto">
+                      <Img
+                        className="h-[22px] w-[22px]"
+                        src="images/img_iconsearch.svg"
+                        alt="iconsearch"
+                      />
+                      <Img
+                        className="h-[22px] w-[22px]"
+                        src="images/img_volume_gray_400_02.svg"
+                        alt="volume"
+                      />
+                      <div className="relative w-6">
+                        <Img
+                          className="h-6 m-auto w-6"
+                          src="images/img_bell01.svg"
+                          alt="bellOne"
+                        />
+                        <div className="absolute bg-blue-800_01 h-2 outline outline-[1px] outline-gray-50_04 right-[8%] rounded-[50%] top-[0] w-2"></div>
+                      </div>
+                      <Img
+                        className="h-8 w-px"
+                        src="images/img_dividerline.svg"
+                        alt="dividerline"
+                      />
+                    </div>
+                    <div className="flex flex-row gap-3.5 items-center justify-start w-auto">
+                      <div className="flex flex-col h-11 items-center justify-start outline outline-[1px] outline-gray-300_08 p-0.5 rounded-[50%] w-11">
+                        <div className="flex flex-col h-10 items-center justify-start w-10">
+                          <Img
+                            className="h-10 md:h-auto rounded-[50%] w-10"
+                            src="images/img_mheader.png"
+                            alt="mheader"
+                          />
+                        </div>
+                      </div>
+                      <SelectBox
+                        className="font-medium text-blue_gray-900_01 text-right text-sm tracking-[0.20px] w-[59%] sm:w-full"
+                        placeholderClassName="text-blue_gray-900_01"
+                        indicator={
+                          <Img
+                            className="h-[18px] w-[18px]"
+                            src="images/img_arrowdown_black_900.svg"
+                            alt="arrow_down"
+                          />
+                        }
+                        isMulti={false}
+                        name="frame1139"
+                        options={moumenOptionsList}
+                        isSearchable={false}
+                        placeholder="Moumen"
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div className="flex md:flex-col flex-row md:gap-10 items-center justify-between w-full">
+                  <div className="bg-white-A700 border border-blue-800 border-solid flex flex-col items-center justify-start md:mt-0 my-1.5 p-1 rounded-md shadow-bs2">
+                    <Img
+                      className="h-[22px] w-[22px]"
+                      src="images/img_svgexport17_blue_800.svg"
+                      alt="svgexportSeventeen"
+                    />
+                  </div>
+                  <Button
+                    className="border border-blue-800 border-solid cursor-pointer flex items-center justify-center min-w-[168px]"
+                    leftIcon={
+                      <Img
+                        className="mr-[17px]"
+                        src="images/img_computer.svg"
+                        alt="computer"
+                      />
+                    }
+                    shape="round"
+                  >
+                    <div className="font-semibold leading-[normal] text-base text-left">
+                      Add Account
+                    </div>
+                  </Button>
+                  <Button
+                    className="border border-blue-800 border-solid cursor-pointer flex items-center justify-center min-w-[166px]"
+                    leftIcon={
+                      <Img
+                        className="h-6 mr-[17px]"
+                        src="images/img_3dstudentgrad.svg"
+                        alt="shopping_8730484 1"
+                      />
+                    }
+                    shape="round"
+                  >
+                    <div className="font-semibold leading-[normal] text-base text-left">
+                      Add Products
+                    </div>
+                  </Button>
+                  <Button
+                    className="border border-blue-800 border-solid cursor-pointer flex items-center justify-center min-w-[171px]"
+                    leftIcon={
+                      <Img
+                        className="h-6 mr-[17px]"
+                        src="images/img_3dstudentgrad.svg"
+                        alt="add_6329712 1"
+                      />
+                    }
+                    shape="round"
+                  >
+                    <div className="font-semibold leading-[normal] text-base text-left">
+                      Add Customer
+                    </div>
+                  </Button>
+                  <Button
+                    className="border border-blue-800 border-solid cursor-pointer flex items-center justify-center min-w-[162px]"
+                    leftIcon={
+                      <Img
+                        className="h-6 mb-px mr-[17px]"
+                        src="images/img_packaging1272189_1.svg"
+                        alt="packaging_1272189 1"
+                      />
+                    }
+                    shape="round"
+                  >
+                    <div className="font-semibold leading-[normal] text-base text-left">
+                      Add Supplier
+                    </div>
+                  </Button>
+                  <Button
+                    className="border border-blue-800 border-solid cursor-pointer flex items-center justify-center min-w-[154px]"
+                    leftIcon={
+                      <Img
+                        className="h-6 mr-[17px]"
+                        src="images/img_3dstudentgrad.svg"
+                        alt="add-file_1486753 1"
+                      />
+                    }
+                    shape="round"
+                  >
+                    <div className="font-semibold leading-[normal] text-base text-left">
+                      Add Service
+                    </div>
+                  </Button>
+                  <Button
+                    className="border border-blue-800 border-solid cursor-pointer flex items-center justify-center min-w-[149px]"
+                    leftIcon={
+                      <Img
+                        className="h-6 mb-px mr-[17px]"
+                        src="images/img_block4491563_1_1.svg"
+                        alt="block_4491563 (1) 1"
+                      />
+                    }
+                    shape="round"
+                  >
+                    <div className="font-semibold leading-[normal] text-base text-left">
+                      Add ِAssets
+                    </div>
+                  </Button>
+                </div>
+              </div>
+            </div>
+            <div className="flex flex-col items-center justify-start w-[95%] md:w-full">
+              <div className="flex md:flex-col flex-row gap-[26px] items-center justify-center w-auto md:w-full">
                 <List
                   className="sm:flex-col flex-row gap-[26px] grid sm:grid-cols-1 grid-cols-2 w-[49%] md:w-full"
                   orientation="horizontal"
                 >
-                  <div className="bg-white-A700 border border-gray-300_08 border-solid flex flex-col items-center justify-end p-[21px] sm:px-5 rounded-lg w-full">
+                  <div className="bg-white-A700 border border-gray-300_08 border-solid flex flex-col items-center justify-center sm:px-5 px-[77px] py-[21px] rounded-lg w-full">
                     <div className="flex flex-col gap-[11px] items-center justify-start w-auto">
                       <div className="flex flex-row gap-2 items-end justify-start w-auto">
                         <Img
@@ -190,7 +362,7 @@ const Home1Page = () => {
                       <Img
                         className="h-6 w-6"
                         src="images/img_svgexport17.svg"
-                        alt="svgexportSeventeen"
+                        alt="svgexportSeventeen_One"
                       />
                       <Text
                         className="text-blue-800 text-center text-lg w-auto"
@@ -209,7 +381,7 @@ const Home1Page = () => {
                   <Img
                     className="h-4 mr-4 w-4"
                     src="images/img_volume.svg"
-                    alt="volume"
+                    alt="volume_One"
                   />
                 </div>
                 <div className="bg-white-A700 border border-gray-300_08 border-solid flex flex-col items-center justify-end p-[21px] sm:px-5 rounded-lg w-[24%] md:w-full">
@@ -236,202 +408,15 @@ const Home1Page = () => {
                   </div>
                 </div>
               </div>
-              <div className="absolute sm:h-[146px] h-[158px] md:h-[611px] inset-x-[0] mx-auto top-[0] w-full">
-                <div className="absolute bg-white-A700 flex flex-col inset-x-[0] items-center justify-end mx-auto p-2 top-[0] w-full">
-                  <div className="flex flex-col gap-[17px] items-center justify-start mt-1.5 w-[95%] md:w-full">
-                    <div className="flex sm:flex-col flex-row md:gap-10 items-center justify-between w-full">
-                      <div className="flex flex-row gap-[3px] items-center justify-center w-auto">
-                        <Img
-                          className="h-5 w-5"
-                          src="images/img_computer.svg"
-                          alt="computer_Four"
-                        />
-                        <Text
-                          className="text-base text-deep_orange-600_01 text-right w-auto"
-                          size="txtIBMPlexSansMedium16Deeporange60001"
-                        >
-                          Dashboard
-                        </Text>
-                      </div>
-                      <div className="flex flex-row gap-[18px] items-center justify-start w-auto">
-                        <div className="flex flex-row gap-7 items-center justify-start w-auto">
-                          <Img
-                            className="h-[22px] w-[22px]"
-                            src="images/img_iconsearch.svg"
-                            alt="iconsearch"
-                          />
-                          <Img
-                            className="h-[22px] w-[22px]"
-                            src="images/img_volume_gray_400_02.svg"
-                            alt="volume_One"
-                          />
-                          <div className="relative w-6">
-                            <Img
-                              className="h-6 m-auto w-6"
-                              src="images/img_bell01.svg"
-                              alt="bellOne"
-                            />
-                            <div className="absolute bg-blue-800_01 h-2 outline outline-[1px] outline-gray-50_04 right-[8%] rounded-[50%] top-[0] w-2"></div>
-                          </div>
-                          <Img
-                            className="h-8 w-px"
-                            src="images/img_dividerline.svg"
-                            alt="dividerline"
-                          />
-                        </div>
-                        <div className="flex flex-row gap-3.5 items-center justify-start w-auto">
-                          <div className="flex flex-col h-11 items-center justify-start outline outline-[1px] outline-gray-300_08 p-0.5 rounded-[50%] w-11">
-                            <div className="flex flex-col h-10 items-center justify-start w-10">
-                              <Img
-                                className="h-10 md:h-auto rounded-[50%] w-10"
-                                src="images/img_mheader.png"
-                                alt="mheader"
-                              />
-                            </div>
-                          </div>
-                          <SelectBox
-                            className="font-medium text-blue_gray-900_01 text-right text-sm tracking-[0.20px] w-[59%] sm:w-full"
-                            placeholderClassName="text-blue_gray-900_01"
-                            indicator={
-                              <Img
-                                className="h-[18px] w-[18px]"
-                                src="images/img_arrowdown_black_900.svg"
-                                alt="arrow_down"
-                              />
-                            }
-                            isMulti={false}
-                            name="frame1139"
-                            options={moumenOptionsList}
-                            isSearchable={false}
-                            placeholder="Moumen"
-                          />
-                        </div>
-                      </div>
-                    </div>
-                    <div className="flex md:flex-col flex-row md:gap-10 items-center justify-between w-full">
-                      <div className="bg-white-A700 border border-blue-800 border-solid flex flex-col items-center justify-start md:mt-0 my-1.5 p-1 rounded-md shadow-bs2">
-                        <Img
-                          className="h-[22px] w-[22px]"
-                          src="images/img_svgexport17_blue_800.svg"
-                          alt="svgexportSeventeen_One"
-                        />
-                      </div>
-                      <Button
-                        className="border border-blue-800 border-solid cursor-pointer flex items-center justify-center min-w-[168px]"
-                        leftIcon={
-                          <Img
-                            className="mr-[17px]"
-                            src="images/img_computer.svg"
-                            alt="computer"
-                          />
-                        }
-                        shape="round"
-                      >
-                        <div className="font-semibold leading-[normal] text-base text-left">
-                          Add Account
-                        </div>
-                      </Button>
-                      <Button
-                        className="border border-blue-800 border-solid cursor-pointer flex items-center justify-center min-w-[166px]"
-                        leftIcon={
-                          <Img
-                            className="h-6 mr-[17px]"
-                            src="images/img_3dstudentgrad.svg"
-                            alt="shopping_8730484 1"
-                          />
-                        }
-                        shape="round"
-                      >
-                        <div className="font-semibold leading-[normal] text-base text-left">
-                          Add Products
-                        </div>
-                      </Button>
-                      <Button
-                        className="border border-blue-800 border-solid cursor-pointer flex items-center justify-center min-w-[171px]"
-                        leftIcon={
-                          <Img
-                            className="h-6 mr-[17px]"
-                            src="images/img_3dstudentgrad.svg"
-                            alt="add_6329712 1"
-                          />
-                        }
-                        shape="round"
-                      >
-                        <div className="font-semibold leading-[normal] text-base text-left">
-                          Add Customer
-                        </div>
-                      </Button>
-                      <Button
-                        className="border border-blue-800 border-solid cursor-pointer flex items-center justify-center min-w-[162px]"
-                        leftIcon={
-                          <Img
-                            className="h-6 mb-px mr-[17px]"
-                            src="images/img_packaging1272189_1.svg"
-                            alt="packaging_1272189 1"
-                          />
-                        }
-                        shape="round"
-                      >
-                        <div className="font-semibold leading-[normal] text-base text-left">
-                          Add Supplier
-                        </div>
-                      </Button>
-                      <Button
-                        className="border border-blue-800 border-solid cursor-pointer flex items-center justify-center min-w-[154px]"
-                        leftIcon={
-                          <Img
-                            className="h-6 mr-[17px]"
-                            src="images/img_3dstudentgrad.svg"
-                            alt="add-file_1486753 1"
-                          />
-                        }
-                        shape="round"
-                      >
-                        <div className="font-semibold leading-[normal] text-base text-left">
-                          Add Service
-                        </div>
-                      </Button>
-                      <Button
-                        className="border border-blue-800 border-solid cursor-pointer flex items-center justify-center min-w-[149px]"
-                        leftIcon={
-                          <Img
-                            className="h-6 mb-px mr-[17px]"
-                            src="images/img_block4491563_1_1.svg"
-                            alt="block_4491563 (1) 1"
-                          />
-                        }
-                        shape="round"
-                      >
-                        <div className="font-semibold leading-[normal] text-base text-left">
-                          Add ِAssets
-                        </div>
-                      </Button>
-                    </div>
-                  </div>
-                </div>
-                <div
-                  className="absolute bg-cover bg-no-repeat bottom-[0] flex flex-col h-[82px] items-end justify-start p-0.5 right-[1%] shadow-bs3"
-                  style={{ backgroundImage: "url('images/img_frame1197.svg')" }}
-                >
-                  <a
-                    href="javascript:"
-                    className="mb-2.5 mr-[3px] rotate-[90deg] text-base text-blue-800"
-                  >
-                    <Text size="txtIBMPlexSansMedium16Blue800">Support</Text>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div className="flex flex-col gap-[19px] items-center justify-start w-[95%] md:w-full">
-              <Line className="bg-gray-400_03 h-px w-full" />
-              <div className="flex md:flex-col flex-row gap-[21px] items-center justify-between w-full">
+              <Line className="bg-gray-400_03 h-px mt-[25px] w-full" />
+              <div className="flex md:flex-col flex-row gap-[21px] items-center justify-between mt-[19px] w-full">
                 <Img
                   className="h-[308px] md:h-auto object-cover rounded"
                   src="images/img_screenshot20230830.png"
                   alt="screenshot20230"
                 />
                 <List
-                  className="bg-white-A700 border border-gray-500_31 border-solid flex flex-col gap-[72px] p-[9px] rounded"
+                  className="bg-white-A700 border border-gray-500_31 border-solid flex flex-row gap-[72px] p-[9px] rounded"
                   orientation="vertical"
                 >
                   <div className="flex flex-col items-center justify-start mr-[3px] my-0 w-full">
@@ -652,7 +637,7 @@ const Home1Page = () => {
                   </div>
                 </List>
               </div>
-              <div className="flex md:flex-col flex-row gap-5 items-center justify-between w-full">
+              <div className="flex md:flex-col flex-row gap-5 items-center justify-between mt-5 w-full">
                 <div className="bg-white-A700 border border-gray-500_31 border-solid flex md:flex-1 flex-col items-center justify-start p-[11px] rounded w-[39%] md:w-full">
                   <div className="flex flex-col gap-[27px] items-center justify-start mb-[23px] w-[95%] md:w-full">
                     <Text
@@ -992,7 +977,7 @@ const Home1Page = () => {
                         <div
                           className="bg-cover bg-no-repeat flex flex-col h-64 items-start justify-start pt-0.5 px-0.5 w-full"
                           style={{
-                            backgroundImage: "url('images/img_group118.svg')",
+                            backgroundImage: "url('images/img_group5774.svg')",
                           }}
                         >
                           <Img

@@ -87,7 +87,7 @@ const MasterCustomerPage = () => {
         <Img
           className="h-8 mb-[3px] w-8"
           src="images/img_computer.svg"
-          alt="computer_One"
+          alt="computerone"
         />
       ),
       label: "Payment Vouchers",
@@ -99,7 +99,7 @@ const MasterCustomerPage = () => {
         <Img
           className="h-8 mb-[3px] w-8"
           src="images/img_computer.svg"
-          alt="computer_Two"
+          alt="computertwo"
         />
       ),
       label: "Receipt Vouchers",
@@ -123,7 +123,7 @@ const MasterCustomerPage = () => {
         <Img
           className="h-8 w-8"
           src="images/img_computer.svg"
-          alt="computer_Three"
+          alt="computerthree"
         />
       ),
       label: "Stocks",
@@ -135,7 +135,7 @@ const MasterCustomerPage = () => {
         <Img
           className="h-[38px] mb-1 w-[38px]"
           src="images/img_3dstudentgrad.svg"
-          alt="spreadsheetappThree"
+          alt="spreadsheetappt"
         />
       ),
       label: "Reports",
@@ -158,7 +158,7 @@ const MasterCustomerPage = () => {
                         <Img
                           className="h-5 w-5"
                           src="images/img_computer.svg"
-                          alt="computer_Four"
+                          alt="computerfour"
                         />
                         <Text
                           className="text-base text-gray-500_33 text-right w-auto"
@@ -180,7 +180,7 @@ const MasterCustomerPage = () => {
                         <Img
                           className="h-3.5 w-3.5"
                           src="images/img_forward.svg"
-                          alt="forward_One"
+                          alt="forwardone"
                         />
                         <Text
                           className="text-base text-deep_orange-500 text-right w-auto"
@@ -205,7 +205,7 @@ const MasterCustomerPage = () => {
                             <Img
                               className="h-6 m-auto w-6"
                               src="images/img_bell01.svg"
-                              alt="bellOne"
+                              alt="bellone"
                             />
                             <div className="absolute bg-blue-800_01 h-2 outline outline-[1px] outline-gray-50_04 right-[8%] rounded-[50%] top-[0] w-2"></div>
                           </div>
@@ -249,7 +249,7 @@ const MasterCustomerPage = () => {
                         <Img
                           className="h-[22px] w-[22px]"
                           src="images/img_svgexport17_blue_800.svg"
-                          alt="svgexportSeventeen"
+                          alt="svgexportsevent"
                         />
                       </div>
                       <Button
@@ -364,7 +364,7 @@ const MasterCustomerPage = () => {
                   <Img
                     className="h-6 w-6"
                     src="images/img_refreshbutton2267901.svg"
-                    alt="refreshbuttonTwentyTwo"
+                    alt="refreshbuttontw"
                   />
                   <Text
                     className="text-base text-blue-800 w-auto"
@@ -794,7 +794,7 @@ const MasterCustomerPage = () => {
                         <Img
                           className="h-3 w-3"
                           src="images/img_svgexport1826.svg"
-                          alt="svgexport1826_One"
+                          alt="svgexport1826on"
                         />
                       </div>
                       <div className="flex flex-row gap-[9px] items-center justify-center w-auto">
@@ -807,7 +807,7 @@ const MasterCustomerPage = () => {
                         <Img
                           className="h-3 w-3"
                           src="images/img_svgexport1826.svg"
-                          alt="svgexport1826_Two"
+                          alt="svgexport1826tw"
                         />
                       </div>
                       <div className="flex flex-row gap-[9px] items-center justify-center w-auto">
@@ -820,7 +820,7 @@ const MasterCustomerPage = () => {
                         <Img
                           className="h-3 w-3"
                           src="images/img_svgexport1826.svg"
-                          alt="svgexport1826_Three"
+                          alt="svgexport1826th"
                         />
                       </div>
                       <div className="flex flex-row gap-[9px] items-center justify-center w-auto">
@@ -833,7 +833,7 @@ const MasterCustomerPage = () => {
                         <Img
                           className="h-3 w-3"
                           src="images/img_svgexport1826.svg"
-                          alt="svgexport1826_Four"
+                          alt="svgexport1826fo"
                         />
                       </div>
                       <div className="flex flex-row gap-[9px] items-center justify-center w-auto">
@@ -846,7 +846,7 @@ const MasterCustomerPage = () => {
                         <Img
                           className="h-3 w-3"
                           src="images/img_svgexport1826.svg"
-                          alt="svgexport1826_Five"
+                          alt="svgexport1826fi"
                         />
                       </div>
                       <div className="flex flex-row gap-[9px] items-center justify-center w-auto">
@@ -859,7 +859,7 @@ const MasterCustomerPage = () => {
                         <Img
                           className="h-3 w-3"
                           src="images/img_svgexport1826.svg"
-                          alt="svgexport1826_Six"
+                          alt="svgexport1826si"
                         />
                       </div>
                       <div className="flex flex-row gap-[9px] items-center justify-center w-auto">
@@ -872,7 +872,7 @@ const MasterCustomerPage = () => {
                         <Img
                           className="h-3 w-3"
                           src="images/img_svgexport1826.svg"
-                          alt="svgexport1826_Seven"
+                          alt="svgexport1826se"
                         />
                       </div>
                     </div>
@@ -880,7 +880,7 @@ const MasterCustomerPage = () => {
                       <Img
                         className="h-5 w-5"
                         src="images/img_svgexport17_blue_gray_300_17_20x20.svg"
-                        alt="svgexportSeventeen_One"
+                        alt="svgexportsevent_One"
                       />
                       <Text
                         className="text-base text-blue_gray-300_17 w-auto"
@@ -1305,7 +1305,7 @@ const MasterCustomerPage = () => {
                   <Img
                     className="h-6 w-6"
                     src="images/img_computer.svg"
-                    alt="computer_Five"
+                    alt="computerfive"
                   />
                   <a
                     href="javascript:"

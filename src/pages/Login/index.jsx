@@ -25,7 +25,7 @@ const LoginPage = () => {
             <Img
               className="h-[84px] md:h-auto md:ml-[0] ml-[43px] object-cover w-[23%] sm:w-full"
               src="images/img_ozonepng1.png"
-              alt="ozonepngOne"
+              alt="ozonepngone"
             />
             <Text
               className="leading-[150.00%] md:ml-[0] ml-[43px] mt-4 text-blue-800 text-xl w-[61%] sm:w-full"
@@ -48,7 +48,7 @@ const LoginPage = () => {
                   Username
                 </Text>
                 <Input
-                  name="frameTwo"
+                  name="frametwo"
                   placeholder="Moumen Dhair"
                   className="!placeholder:text-gray-500 !text-gray-500 p-0 text-base text-left w-full"
                   wrapClassName="border border-blue-800_33 border-solid rounded-lg w-full"
@@ -65,7 +65,7 @@ const LoginPage = () => {
                 <Img
                   className="h-14 rounded-tl-lg rounded-tr-lg w-full"
                   src="images/img_frame2.svg"
-                  alt="frameTwo_One"
+                  alt="frametwoone"
                 />
               </div>
               <div className="flex flex-col gap-2 items-start justify-start w-full">

@@ -72,7 +72,7 @@ const MasterServicesPage = () => {
         <Img
           className="h-8 mb-[3px] w-8"
           src="images/img_computer.svg"
-          alt="computer_One"
+          alt="computerone"
         />
       ),
       label: "Payment Vouchers",
@@ -84,7 +84,7 @@ const MasterServicesPage = () => {
         <Img
           className="h-8 mb-[3px] w-8"
           src="images/img_computer.svg"
-          alt="computer_Two"
+          alt="computertwo"
         />
       ),
       label: "Receipt Vouchers",
@@ -108,7 +108,7 @@ const MasterServicesPage = () => {
         <Img
           className="h-8 w-8"
           src="images/img_computer.svg"
-          alt="computer_Three"
+          alt="computerthree"
         />
       ),
       label: "Stocks",
@@ -120,7 +120,7 @@ const MasterServicesPage = () => {
         <Img
           className="h-[38px] mb-1 w-[38px]"
           src="images/img_3dstudentgrad.svg"
-          alt="spreadsheetappThree"
+          alt="spreadsheetappt"
         />
       ),
       label: "Reports",
@@ -162,7 +162,7 @@ const MasterServicesPage = () => {
                         <Img
                           className="h-5 w-5"
                           src="images/img_computer.svg"
-                          alt="computer_Four"
+                          alt="computerfour"
                         />
                         <Text
                           className="text-base text-gray-500_33 text-right w-auto"
@@ -184,7 +184,7 @@ const MasterServicesPage = () => {
                         <Img
                           className="h-3.5 w-3.5"
                           src="images/img_forward.svg"
-                          alt="forward_One"
+                          alt="forwardone"
                         />
                         <Text
                           className="text-base text-deep_orange-500 text-right w-auto"
@@ -209,7 +209,7 @@ const MasterServicesPage = () => {
                             <Img
                               className="h-6 m-auto w-6"
                               src="images/img_bell01.svg"
-                              alt="bellOne"
+                              alt="bellone"
                             />
                             <div className="absolute bg-blue-800_01 h-2 outline outline-[1px] outline-gray-50_04 right-[8%] rounded-[50%] top-[0] w-2"></div>
                           </div>
@@ -253,7 +253,7 @@ const MasterServicesPage = () => {
                         <Img
                           className="h-[22px] w-[22px]"
                           src="images/img_svgexport17_blue_800.svg"
-                          alt="svgexportSeventeen"
+                          alt="svgexportsevent"
                         />
                       </div>
                       <Button
@@ -377,12 +377,12 @@ const MasterServicesPage = () => {
                     <Img
                       className="h-7 w-7"
                       src="images/img_computer.svg"
-                      alt="computer_Five"
+                      alt="computerfive"
                     />
                     <Img
                       className="h-4 md:h-auto sm:mt-0 my-1.5 object-cover rounded-[1px] w-4"
                       src="images/img_rectangle24.png"
-                      alt="rectangleTwentyFour"
+                      alt="rectangletwenty"
                     />
                     <Text
                       className="sm:mt-0 my-1 text-black-900 text-sm"
@@ -393,17 +393,17 @@ const MasterServicesPage = () => {
                     <Img
                       className="h-2.5 sm:mt-0 my-[9px]"
                       src="images/img_car_blue_gray_400_19.svg"
-                      alt="car_One"
+                      alt="carone"
                     />
                     <Img
                       className="h-[18px] sm:mt-0 my-[5px] w-[18px]"
                       src="images/img_computer.svg"
-                      alt="computer_Six"
+                      alt="computersix"
                     />
                     <Img
                       className="h-2.5 sm:mt-0 my-[9px]"
                       src="images/img_car_blue_gray_400_19.svg"
-                      alt="car_Two"
+                      alt="cartwo"
                     />
                     <Img
                       className="h-[18px] sm:mt-0 my-[5px] w-[18px]"
@@ -413,7 +413,7 @@ const MasterServicesPage = () => {
                     <Img
                       className="h-2.5 sm:mt-0 my-[9px]"
                       src="images/img_car.svg"
-                      alt="car_Three"
+                      alt="carthree"
                     />
                     <Text
                       className="bg-white-A700 border border-blue-800 border-solid h-7 justify-center px-3 py-[3px] rounded-sm text-base text-blue-800 text-shadow-ts w-auto"
@@ -443,7 +443,7 @@ const MasterServicesPage = () => {
                 <Img
                   className="h-2.5 ml-3 sm:ml-[0] sm:mt-0 my-[9px]"
                   src="images/img_car.svg"
-                  alt="car_Four"
+                  alt="carfour"
                 />
                 <Img
                   className="h-[18px] ml-2.5 sm:ml-[0] sm:mt-0 my-[5px] w-[18px]"
@@ -453,7 +453,7 @@ const MasterServicesPage = () => {
                 <Img
                   className="h-4 md:h-auto sm:ml-[0] ml-[11px] sm:mt-0 my-1.5 object-cover rounded-[1px] w-4"
                   src="images/img_rectangle24.png"
-                  alt="rectangleTwentyFour_One"
+                  alt="rectangletwenty_One"
                 />
                 <Text
                   className="ml-4 sm:ml-[0] sm:mt-0 my-1 text-black-900 text-sm"
@@ -465,27 +465,27 @@ const MasterServicesPage = () => {
                 <Img
                   className="h-2.5 sm:ml-[0] ml-[17px] sm:mt-0 my-[9px]"
                   src="images/img_car_blue_gray_400_19.svg"
-                  alt="car_Five"
+                  alt="carfive"
                 />
                 <Img
                   className="h-[18px] ml-5 sm:ml-[0] sm:mt-0 my-[5px] w-[18px]"
                   src="images/img_computer.svg"
-                  alt="computer_Seven"
+                  alt="computerseven"
                 />
                 <Img
                   className="h-2.5 sm:ml-[0] ml-[13px] sm:mt-0 my-[9px]"
                   src="images/img_car_blue_gray_400_19.svg"
-                  alt="car_Six"
+                  alt="carsix"
                 />
                 <Img
                   className="h-[18px] ml-5 sm:ml-[0] sm:mt-0 my-[5px] w-[18px]"
                   src="images/img_delete10337516.svg"
-                  alt="delete10337516_One"
+                  alt="delete10337516o"
                 />
                 <Img
                   className="h-2.5 ml-2.5 sm:ml-[0] sm:mt-0 my-[9px]"
                   src="images/img_car.svg"
-                  alt="car_Seven"
+                  alt="carseven"
                 />
                 <Text
                   className="bg-white-A700 border border-blue-800 border-solid h-7 justify-center sm:ml-[0] ml-[13px] px-3 py-[3px] rounded-sm text-base text-blue-800 text-shadow-ts w-auto"
@@ -499,7 +499,7 @@ const MasterServicesPage = () => {
                   <Img
                     className="absolute h-2.5 inset-y-[0] my-auto right-[0]"
                     src="images/img_car_blue_gray_400_19_10x66.svg"
-                    alt="car_Eight"
+                    alt="careight"
                   />
                   <Img
                     className="absolute h-3.5 inset-y-[0] left-[0] my-auto w-3.5"
@@ -521,27 +521,27 @@ const MasterServicesPage = () => {
                 <Img
                   className="h-2.5 ml-3.5 md:ml-[0] md:mt-0 my-[9px]"
                   src="images/img_car_blue_gray_400_19.svg"
-                  alt="car_Nine"
+                  alt="carnine"
                 />
                 <Img
                   className="h-[18px] ml-5 md:ml-[0] md:mt-0 my-[5px] w-[18px]"
                   src="images/img_computer.svg"
-                  alt="computer_Eight"
+                  alt="computereight"
                 />
                 <Img
                   className="h-2.5 md:ml-[0] ml-[13px] md:mt-0 my-[9px]"
                   src="images/img_car_blue_gray_400_19.svg"
-                  alt="car_Ten"
+                  alt="carten"
                 />
                 <Img
                   className="h-[18px] ml-5 md:ml-[0] md:mt-0 my-[5px] w-[18px]"
                   src="images/img_delete10337516.svg"
-                  alt="delete10337516_Two"
+                  alt="delete10337516t"
                 />
                 <Img
                   className="h-2.5 ml-2.5 md:ml-[0] md:mt-0 my-[9px]"
                   src="images/img_car.svg"
-                  alt="car_Eleven"
+                  alt="careleven"
                 />
                 <Text
                   className="bg-white-A700 border border-blue-800 border-solid h-7 justify-center md:ml-[0] ml-[13px] px-3 py-[3px] rounded-sm text-base text-blue-800 text-shadow-ts w-auto"
@@ -555,7 +555,7 @@ const MasterServicesPage = () => {
                   <Img
                     className="absolute h-2.5 right-[0] top-[0]"
                     src="images/img_car.svg"
-                    alt="car_Twelve"
+                    alt="cartwelve"
                   />
                   <div className="absolute bg-blue-800 flex flex-col h-full inset-y-[0] items-center justify-start left-[0] my-auto p-[3px] rounded-[50%] w-3.5">
                     <div className="bg-white-A700 h-px my-[3px] w-[88%]"></div>
@@ -576,27 +576,27 @@ const MasterServicesPage = () => {
                 <Img
                   className="h-2.5 ml-4 md:ml-[0] md:mt-0 my-[9px]"
                   src="images/img_car_blue_gray_400_19.svg"
-                  alt="car_Thirteen"
+                  alt="carthirteen"
                 />
                 <Img
                   className="h-[18px] ml-5 md:ml-[0] md:mt-0 my-[5px] w-[18px]"
                   src="images/img_computer.svg"
-                  alt="computer_Nine"
+                  alt="computernine"
                 />
                 <Img
                   className="h-2.5 md:ml-[0] ml-[13px] md:mt-0 my-[9px]"
                   src="images/img_car_blue_gray_400_19.svg"
-                  alt="car_Fourteen"
+                  alt="carfourteen"
                 />
                 <Img
                   className="h-[18px] ml-5 md:ml-[0] md:mt-0 my-[5px] w-[18px]"
                   src="images/img_delete10337516.svg"
-                  alt="delete10337516_Three"
+                  alt="delete10337516t_One"
                 />
                 <Img
                   className="h-2.5 ml-2.5 md:ml-[0] md:mt-0 my-[9px]"
                   src="images/img_car.svg"
-                  alt="car_Fifteen"
+                  alt="carfifteen"
                 />
                 <Text
                   className="bg-white-A700 border border-blue-800 border-solid h-7 justify-center md:ml-[0] ml-[13px] px-3 py-[3px] rounded-sm text-base text-blue-800 text-shadow-ts w-auto"
@@ -610,7 +610,7 @@ const MasterServicesPage = () => {
                   <Img
                     className="absolute h-2.5 right-[0] top-[0]"
                     src="images/img_car.svg"
-                    alt="car_Sixteen"
+                    alt="carsixteen"
                   />
                   <div className="absolute bg-blue-800 flex flex-col h-full inset-y-[0] items-center justify-start left-[0] my-auto p-[3px] rounded-[50%] w-3.5">
                     <div className="bg-white-A700 h-px my-[3px] w-[88%]"></div>
@@ -631,27 +631,27 @@ const MasterServicesPage = () => {
                 <Img
                   className="h-2.5 ml-4 md:ml-[0] md:mt-0 my-[9px]"
                   src="images/img_car_blue_gray_400_19.svg"
-                  alt="car_Seventeen"
+                  alt="carseventeen"
                 />
                 <Img
                   className="h-[18px] ml-5 md:ml-[0] md:mt-0 my-[5px] w-[18px]"
                   src="images/img_computer.svg"
-                  alt="computer_Ten"
+                  alt="computerten"
                 />
                 <Img
                   className="h-2.5 md:ml-[0] ml-[13px] md:mt-0 my-[9px]"
                   src="images/img_car_blue_gray_400_19.svg"
-                  alt="car_Eighteen"
+                  alt="careighteen"
                 />
                 <Img
                   className="h-[18px] ml-5 md:ml-[0] md:mt-0 my-[5px] w-[18px]"
                   src="images/img_delete10337516.svg"
-                  alt="delete10337516_Four"
+                  alt="delete10337516f"
                 />
                 <Img
                   className="h-2.5 ml-2.5 md:ml-[0] md:mt-0 my-[9px]"
                   src="images/img_car.svg"
-                  alt="car_Nineteen"
+                  alt="carnineteen"
                 />
                 <Text
                   className="bg-white-A700 border border-blue-800 border-solid h-7 justify-center md:ml-[0] ml-[13px] px-3 py-[3px] rounded-sm text-base text-blue-800 text-shadow-ts w-auto"
@@ -665,7 +665,7 @@ const MasterServicesPage = () => {
                   <Img
                     className="absolute h-2.5 right-[0] top-[0]"
                     src="images/img_car.svg"
-                    alt="car_Twenty"
+                    alt="cartwenty"
                   />
                   <div className="absolute bg-blue-800 flex flex-col h-full inset-y-[0] items-center justify-start left-[0] my-auto p-[3px] rounded-[50%] w-3.5">
                     <div className="bg-white-A700 h-px my-[3px] w-[88%]"></div>
@@ -686,27 +686,27 @@ const MasterServicesPage = () => {
                 <Img
                   className="h-2.5 ml-4 md:ml-[0] md:mt-0 my-[9px]"
                   src="images/img_car_blue_gray_400_19.svg"
-                  alt="car_TwentyOne"
+                  alt="cartwentyone"
                 />
                 <Img
                   className="h-[18px] ml-5 md:ml-[0] md:mt-0 my-[5px] w-[18px]"
                   src="images/img_computer.svg"
-                  alt="computer_Eleven"
+                  alt="computereleven"
                 />
                 <Img
                   className="h-2.5 md:ml-[0] ml-[13px] md:mt-0 my-[9px]"
                   src="images/img_car_blue_gray_400_19.svg"
-                  alt="car_TwentyTwo"
+                  alt="cartwentytwo"
                 />
                 <Img
                   className="h-[18px] ml-5 md:ml-[0] md:mt-0 my-[5px] w-[18px]"
                   src="images/img_delete10337516.svg"
-                  alt="delete10337516_Five"
+                  alt="delete10337516f_One"
                 />
                 <Img
                   className="h-2.5 ml-2.5 md:ml-[0] md:mt-0 my-[9px]"
                   src="images/img_car.svg"
-                  alt="car_TwentyThree"
+                  alt="cartwentythree"
                 />
                 <Text
                   className="bg-white-A700 border border-blue-800 border-solid h-7 justify-center md:ml-[0] ml-[13px] px-3 py-[3px] rounded-sm text-base text-blue-800 text-shadow-ts w-auto"
@@ -720,12 +720,12 @@ const MasterServicesPage = () => {
                   <Img
                     className="absolute h-2.5 inset-y-[0] my-auto right-[0]"
                     src="images/img_car_blue_gray_400_19_10x66.svg"
-                    alt="car_TwentyFour"
+                    alt="cartwentyfour"
                   />
                   <Img
                     className="absolute h-3.5 inset-y-[0] left-[0] my-auto w-3.5"
                     src="images/img_plus.svg"
-                    alt="plus_One"
+                    alt="plusone"
                   />
                 </div>
                 <Img
@@ -742,27 +742,27 @@ const MasterServicesPage = () => {
                 <Img
                   className="h-2.5 ml-3.5 sm:ml-[0] sm:mt-0 my-[9px]"
                   src="images/img_car_blue_gray_400_19.svg"
-                  alt="car_TwentyFive"
+                  alt="cartwentyfive"
                 />
                 <Img
                   className="h-[18px] ml-5 sm:ml-[0] sm:mt-0 my-[5px] w-[18px]"
                   src="images/img_computer.svg"
-                  alt="computer_Twelve"
+                  alt="computertwelve"
                 />
                 <Img
                   className="h-2.5 sm:ml-[0] ml-[13px] sm:mt-0 my-[9px]"
                   src="images/img_car_blue_gray_400_19.svg"
-                  alt="car_TwentySix"
+                  alt="cartwentysix"
                 />
                 <Img
                   className="h-[18px] ml-5 sm:ml-[0] sm:mt-0 my-[5px] w-[18px]"
                   src="images/img_delete10337516.svg"
-                  alt="delete10337516_Six"
+                  alt="delete10337516s"
                 />
                 <Img
                   className="h-2.5 ml-2.5 sm:ml-[0] sm:mt-0 my-[9px]"
                   src="images/img_car.svg"
-                  alt="car_TwentySeven"
+                  alt="cartwentyseven"
                 />
                 <Text
                   className="bg-white-A700 border border-blue-800 border-solid h-7 justify-center sm:ml-[0] ml-[13px] px-3 py-[3px] rounded-sm text-base text-blue-800 text-shadow-ts w-auto"

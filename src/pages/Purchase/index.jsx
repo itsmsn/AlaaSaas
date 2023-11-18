@@ -72,7 +72,7 @@ const PurchasePage = () => {
         <Img
           className="h-8 mb-[3px] w-8"
           src="images/img_computer.svg"
-          alt="computer_One"
+          alt="computerone"
         />
       ),
       label: "Payment Vouchers",
@@ -84,7 +84,7 @@ const PurchasePage = () => {
         <Img
           className="h-8 mb-[3px] w-8"
           src="images/img_computer.svg"
-          alt="computer_Two"
+          alt="computertwo"
         />
       ),
       label: "Receipt Vouchers",
@@ -108,7 +108,7 @@ const PurchasePage = () => {
         <Img
           className="h-8 w-8"
           src="images/img_computer.svg"
-          alt="computer_Three"
+          alt="computerthree"
         />
       ),
       label: "Stocks",
@@ -120,7 +120,7 @@ const PurchasePage = () => {
         <Img
           className="h-[38px] mb-1 w-[38px]"
           src="images/img_3dstudentgrad.svg"
-          alt="spreadsheetappThree"
+          alt="spreadsheetappt"
         />
       ),
       label: "Reports",
@@ -138,7 +138,7 @@ const PurchasePage = () => {
               <Img
                 className="h-[125px] mx-auto object-cover w-full"
                 src="images/img_rectangle16_125x1190.png"
-                alt="rectangleSixteen"
+                alt="rectanglesixtee"
               />
               <div className="absolute sm:h-[146px] h-[158px] md:h-[611px] inset-[0] justify-center m-auto w-full">
                 <div className="absolute bg-white-A700 flex flex-col inset-x-[0] items-center justify-end mx-auto p-2 top-[0] w-full">
@@ -148,7 +148,7 @@ const PurchasePage = () => {
                         <Img
                           className="h-5 w-5"
                           src="images/img_computer.svg"
-                          alt="computer_Four"
+                          alt="computerfour"
                         />
                         <Text
                           className="text-base text-gray-500_33 text-right w-auto"
@@ -184,7 +184,7 @@ const PurchasePage = () => {
                             <Img
                               className="h-6 m-auto w-6"
                               src="images/img_bell01.svg"
-                              alt="bellOne"
+                              alt="bellone"
                             />
                             <div className="absolute bg-blue-800_01 h-2 outline outline-[1px] outline-gray-50_04 right-[8%] rounded-[50%] top-[0] w-2"></div>
                           </div>
@@ -228,7 +228,7 @@ const PurchasePage = () => {
                         <Img
                           className="h-[22px] w-[22px]"
                           src="images/img_svgexport17_blue_800.svg"
-                          alt="svgexportSeventeen"
+                          alt="svgexportsevent"
                         />
                       </div>
                       <Button
@@ -341,7 +341,7 @@ const PurchasePage = () => {
           <Img
             className="h-[213px] mt-[19px]"
             src="images/img_50.svg"
-            alt="Fifty"
+            alt="fifty"
           />
           <Text
             className="mt-[30px] text-center text-gray-600_23 text-xl"
@@ -410,7 +410,7 @@ const PurchasePage = () => {
                 <Img
                   className="h-[47px] mb-10"
                   src="images/img_arrowdown_blue_800.svg"
-                  alt="arrowdown_One"
+                  alt="arrowdownone"
                 />
               </div>
             </div>
@@ -423,7 +423,7 @@ const PurchasePage = () => {
             <Img
               className="absolute h-[47px] inset-y-[0] my-auto right-[0]"
               src="images/img_arrowdown.svg"
-              alt="arrowdown_Two"
+              alt="arrowdowntwo"
             />
             <Line className="absolute bg-blue-800 h-px inset-x-[0] mx-auto top-[0] w-[98%]" />
           </div>
@@ -468,12 +468,12 @@ const PurchasePage = () => {
                   <Img
                     className="h-[47px]"
                     src="images/img_arrowdown.svg"
-                    alt="arrowdown_Three"
+                    alt="arrowdownthree"
                   />
                   <Img
                     className="h-[47px]"
                     src="images/img_arrowdown.svg"
-                    alt="arrowdown_Four"
+                    alt="arrowdownfour"
                   />
                 </div>
               </div>
@@ -501,7 +501,7 @@ const PurchasePage = () => {
               <Img
                 className="absolute h-[47px] inset-[0] justify-center m-auto"
                 src="images/img_arrowdown.svg"
-                alt="arrowdown_Five"
+                alt="arrowdownfive"
               />
               <Line className="absolute bg-blue-800 h-px inset-x-[0] mx-auto top-[0] w-full" />
             </div>
@@ -523,7 +523,7 @@ const PurchasePage = () => {
             <Img
               className="absolute h-[47px] inset-[0] justify-center m-auto"
               src="images/img_arrowdown.svg"
-              alt="arrowdown_Six"
+              alt="arrowdownsix"
             />
             <Line className="absolute bg-blue-800 h-px inset-x-[0] mx-auto top-[0] w-full" />
           </div>

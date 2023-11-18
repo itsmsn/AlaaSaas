@@ -187,7 +187,7 @@ const PurchasePurchaseQuotationPage = () => {
             <Img
               className="h-3 mt-2 w-3"
               src="images/img_svgexport1826.svg"
-              alt="svgexport1826_One"
+              alt="svgexport1826on"
             />
           </div>
         ),
@@ -212,7 +212,7 @@ const PurchasePurchaseQuotationPage = () => {
             <Img
               className="h-3 mt-2 w-3"
               src="images/img_svgexport1826.svg"
-              alt="svgexport1826_Two"
+              alt="svgexport1826tw"
             />
           </div>
         ),
@@ -237,7 +237,7 @@ const PurchasePurchaseQuotationPage = () => {
             <Img
               className="h-3 mt-2 w-3"
               src="images/img_svgexport1826.svg"
-              alt="svgexport1826_Three"
+              alt="svgexport1826th"
             />
           </div>
         ),
@@ -262,7 +262,7 @@ const PurchasePurchaseQuotationPage = () => {
             <Img
               className="h-3 mt-2 w-3"
               src="images/img_svgexport1826.svg"
-              alt="svgexport1826_Four"
+              alt="svgexport1826fo"
             />
           </div>
         ),
@@ -287,7 +287,7 @@ const PurchasePurchaseQuotationPage = () => {
             <Img
               className="h-3 mt-2 w-3"
               src="images/img_svgexport1826.svg"
-              alt="svgexport1826_Five"
+              alt="svgexport1826fi"
             />
           </div>
         ),
@@ -312,7 +312,7 @@ const PurchasePurchaseQuotationPage = () => {
             <Img
               className="h-2.5 mb-[5px] mt-[9px] w-[11px]"
               src="images/img_settings.svg"
-              alt="settings_One"
+              alt="settingsone"
             />
           </div>
         ),
@@ -337,7 +337,7 @@ const PurchasePurchaseQuotationPage = () => {
             <Img
               className="h-2.5 mb-[5px] mt-[9px] w-[11px]"
               src="images/img_settings.svg"
-              alt="settings_Two"
+              alt="settingstwo"
             />
           </div>
         ),
@@ -362,7 +362,7 @@ const PurchasePurchaseQuotationPage = () => {
             <Img
               className="h-2.5 mb-[5px] mt-[9px] w-[11px]"
               src="images/img_settings.svg"
-              alt="settings_Three"
+              alt="settingsthree"
             />
           </div>
         ),
@@ -387,7 +387,7 @@ const PurchasePurchaseQuotationPage = () => {
             <Img
               className="h-2.5 mb-[5px] mt-[9px] w-[11px]"
               src="images/img_settings.svg"
-              alt="settings_Four"
+              alt="settingsfour"
             />
           </div>
         ),
@@ -455,7 +455,7 @@ const PurchasePurchaseQuotationPage = () => {
         <Img
           className="h-8 mb-[3px] w-8"
           src="images/img_computer.svg"
-          alt="computer_One"
+          alt="computerone"
         />
       ),
       label: "Payment Vouchers",
@@ -467,7 +467,7 @@ const PurchasePurchaseQuotationPage = () => {
         <Img
           className="h-8 mb-[3px] w-8"
           src="images/img_computer.svg"
-          alt="computer_Two"
+          alt="computertwo"
         />
       ),
       label: "Receipt Vouchers",
@@ -491,7 +491,7 @@ const PurchasePurchaseQuotationPage = () => {
         <Img
           className="h-8 w-8"
           src="images/img_computer.svg"
-          alt="computer_Three"
+          alt="computerthree"
         />
       ),
       label: "Stocks",
@@ -503,7 +503,7 @@ const PurchasePurchaseQuotationPage = () => {
         <Img
           className="h-[38px] mb-1 w-[38px]"
           src="images/img_3dstudentgrad.svg"
-          alt="spreadsheetappThree"
+          alt="spreadsheetappt"
         />
       ),
       label: "Reports",
@@ -522,7 +522,7 @@ const PurchasePurchaseQuotationPage = () => {
                 <Img
                   className="h-[125px] mx-auto object-cover w-full"
                   src="images/img_rectangle16_2.png"
-                  alt="rectangleSixteen"
+                  alt="rectanglesixtee"
                 />
                 <div className="absolute sm:h-[125px] h-[158px] md:h-[673px] inset-[0] justify-center m-auto w-full">
                   <div className="absolute bg-white-A700 flex flex-col inset-x-[0] items-center justify-end mx-auto p-2 top-[0] w-full">
@@ -532,7 +532,7 @@ const PurchasePurchaseQuotationPage = () => {
                           <Img
                             className="h-5 w-5"
                             src="images/img_computer.svg"
-                            alt="computer_Four"
+                            alt="computerfour"
                           />
                           <Text
                             className="text-base text-gray-500_33 text-right w-auto"
@@ -554,7 +554,7 @@ const PurchasePurchaseQuotationPage = () => {
                           <Img
                             className="h-3.5 w-3.5"
                             src="images/img_forward.svg"
-                            alt="forward_One"
+                            alt="forwardone"
                           />
                           <Text
                             className="text-base text-deep_orange-500 text-right w-auto"
@@ -579,7 +579,7 @@ const PurchasePurchaseQuotationPage = () => {
                               <Img
                                 className="h-6 m-auto w-6"
                                 src="images/img_bell01.svg"
-                                alt="bellOne"
+                                alt="bellone"
                               />
                               <div className="absolute bg-blue-800_01 h-2 outline outline-[1px] outline-gray-50_04 right-[8%] rounded-[50%] top-[0] w-2"></div>
                             </div>
@@ -623,7 +623,7 @@ const PurchasePurchaseQuotationPage = () => {
                           <Img
                             className="h-[22px] w-[22px]"
                             src="images/img_svgexport17_blue_800.svg"
-                            alt="svgexportSeventeen"
+                            alt="svgexportsevent"
                           />
                         </div>
                         <Button
@@ -942,7 +942,7 @@ const PurchasePurchaseQuotationPage = () => {
                   <Img
                     className="h-6 w-6"
                     src="images/img_refreshbutton2267901.svg"
-                    alt="refreshbuttonTwentyTwo"
+                    alt="refreshbuttontw"
                   />
                   <Text
                     className="text-base text-blue-800 w-auto"
@@ -1102,7 +1102,7 @@ const PurchasePurchaseQuotationPage = () => {
                   <Img
                     className="h-6 w-6"
                     src="images/img_computer.svg"
-                    alt="computer_Five"
+                    alt="computerfive"
                   />
                   <a
                     href="javascript:"
